@@ -1,0 +1,4 @@
+Name	Rollno	Age
+neeru	28	30
+sai	23	21
+prasu	6	20
